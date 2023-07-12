@@ -1,0 +1,47 @@
+{
+  "locale": {
+    "en": "English",
+    "vi": "Vietnamese"
+  },
+  "main": {
+    "section1_heading": "Exprimez-vous librement",
+    "section1_desc": "Dites « Bonjour » à une expérience de messagerie différente. Un accent inattendu sur la confidentialité et la protection des données personnelles, combiné à toutes les fonctions auxquelles vous vous attendez.",
+    "section1_btn": " Obtenir Signal",
+    "section2_heading": "Pourquoi utiliser Signal ?",
+    "section2_desc": "Explorez ci-dessous afin de découvrir pourquoi Signal est une messagerie simple, puissante et sécurisée",
+    "section3_lottie_heading": "Partager sans insécurité",
+    "section3_lottie_desc": "Un chiffrement de bout en bout de pointe (propulsé par le protocole Signal à code source ouvert) assure la sécurité de vos conversations. Nous ne pouvons ni lire vos messages ni écouter vos appels, et personne d’autre que vous ne peut le faire. La confidentialité n’est pas proposée en option, c’est simplement la façon dont Signal fonctionne. Pour tous les messages, pour tous les appels, tout le temps.",
+    "section4_heading1": "Dites ce qui vous plaît",
+    "section4_desc1": "tagez gratuitement des textes, des messages vocaux, des photos, des vidéos et des GIF. Signal utilise la connexion de données de votre téléphone afin de vous éviter les frais relatifs à l’envoi de texto et de message multimédia.",
+    "section4_heading2": "Exprimez-vous librement",
+    "section4_desc2": "Passez des appels vocaux ou vidéo clairs avec des personnes qui vivent à l’autre bout de la ville ou du monde, sans frais supplémentaires",
+    "section4_heading3": "Respectez votre vie privée",
+    "section4_desc3": "Faites passer vos conversations au niveau supérieur avec les autocollants chiffrés. Vous pouvez aussi créer et partager vos propres paquets d’autocollants.",
+    "section4_heading4": "Rassemblez-vous avec les groupes",
+    "section4_desc4": "Avec les conversations de groupe, restez facilement en contact avec votre famille, vos amis et vos collègues.",
+    "section5_heading": "Aucune publicité, aucun traqueur, vraiment.",
+    "section5_desc": "Dans Signal, il n’y a aucune publicité, aucun vendeur partenaire, ni aucun système de suivi inquiétant. Vous pouvez vous consacrer à partager les moments importants avec les personnes qui comptent pour vous.",
+    "section6_heading": "Gratuit pour tous",
+    "section6_desc": "Signal est un organisme à but non lucratif indépendant. Nous ne sommes reliés à aucune entreprise technologique importante et nous ne pourrons jamais être achetés par l’une d’elles. Le développement de notre plateforme est financé par des subventions et des dons de personnes comme vous.",
+    "section6_btn": " Faire un don à Signal "
+  },
+
+  "help": {
+    "donate": "Donate",
+    "contact": "Contact Us",
+    "hcwh": "How can we help?",
+    "search": "Search",
+    "start": "Getting Started",
+    "start_desc": "Understand the basics of Signal on Android, iOS, and Desktop.",
+    "features": "Features",
+    "features_desc":"Explore rich features of private messaging.",
+    "security": "Security",
+    "security_desc": "This section contains common questions regarding safety and reliability of the technology in the apps.",
+    "troubleshooting": "Troubleshooting",
+    "general": "General",
+    "committed": "Signal is committed to your privacy. Signal runs on donations as a nonprofit. No ads, no trackers. Donate here!",
+    "donate_here": "Donate here!"
+  }
+}
+
+

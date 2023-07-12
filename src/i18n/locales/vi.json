@@ -1,0 +1,45 @@
+{
+  "locale": {
+    "en": "English",
+    "vi": "Vietnamese"
+  },
+  "main": {
+    "section1_heading": "Nói chuyện tự do",
+    "section1_desc": "Bắt đầu một trải nghiệm nhắn tin khác biệt. Các tính năng hỗ trợ quyền riêng tư ngoài mong đợi, kết hợp với những tính năng nhắn tin bạn mong chờ.",
+    "section1_btn": " Tải Signal ",
+    "section2_heading": "Vì sao lại dùng Signal?",
+    "section2_desc":"Tìm hiểu phía dưới đây để biết vì sao Signal là một nền tảng nhắn tin đơn giản, mạnh mẽ, và an toàn",
+    "section3_lottie_heading":"Chia sẻ Không Ngại Lỗ hổng",
+    "section3_lottie_desc": "Phương thức mã hoá hai đầu cuối tân tiến (được hỗ trợ bởi Giao thức Signal mã nguồn mở) để giữ các cuộc trò chuyện của bạn được an toàn. Chúng tôi không đọc được tin nhắn của bạn hoặc nghe được cuộc gọi của bạn, và cũng không ai khác có thể. Quyền riêng tư không phải là một chế độ tùy chọn — đó đơn giản là cách Signal hoạt động. Mọi tin nhắn, mọi cuộc gọi, mọi lúc.",
+    "section4_heading1":"Nói bất cứ điều gì",
+    "section4_desc1": "Chia sẻ miễn phí văn bản, tin nhắn thoại, hình ảnh, video, ảnh động và tập tin. Signal sử dụng kết nối dữ liệu di động của bạn để bạn có thể tránh các phí SMS và MMS.",
+    "section4_heading2":"Nói chuyện Tự do",
+    "section4_desc2":"Thực hiện các cuộc gọi thoại và video cực rõ với bất cứ ai sống bên kia thành phố, hoặc bên kia bờ đại dương, mà không phải tốn phí gọi đường dài.",
+    "section4_heading3":"Quyền Riêng Tư & Nhãn Dán",
+    "section4_desc3":"Thêm một lớp biểu cảm cho các cuộc trò chuyện của bạn với nhãn dán được mã hoá. Bạn cũng có thể tạo và chia sẻ các bộ nhãn dán của riêng mình.",
+    "section4_heading4":"Gặp nhau qua Nhóm",
+    "section4_desc4":"Trò chuyện nhóm giúp bạn giữ liên lạc với gia đình, bạn bè, và đồng nghiệp một cách dễ dàng.",
+    "section5_heading": "Không quảng cáo. Không theo dõi. Không đùa.",
+    "section5_desc": "Signal không hề có bất kỳ mục quảng cáo, bên quảng cáo thứ ba nào, và không theo dõi người dùng. Vì vậy, hãy cứ tập trung cho những khoảnh khắc quan trọng với bạn với những người quan trọng.",
+    "section6_heading": "Miễn phí cho tất cả mọi người",
+    "section6_desc":"Signal là một tổ chức phi lợi nhuận độc lập. Chúng tôi không có liên kết với các công ty công nghệ lớn, và chúng tôi sẽ không bao giờ bị mua bởi các công ty này. Việc phát triển Signal được hỗ trợ bởi các khoản trợ cấp và khoản ủng hộ từ các cá nhân như bạn.",
+    "section6_btn": "Ủng hộ Signal"
+  },
+
+  "help": {
+    "donate": "Ủng hộ",
+    "contact": "Liên lạc chúng tôi",
+    "hcwh": "Chúng tôi có thể giúp gì cho bạn?",
+    "search": "Tìm kiếm",
+    "start": "Bắt đầu",
+    "start_desc": "Hiểu kiến thức cơ bản về Signal trên Android, iOS và Máy tính để bàn.",
+    "features": "Tính năng",
+    "features_desc":"Khám phá các tính năng phong phú của tin nhắn cá nhân.",
+    "security": "An ninh",
+    "security_desc": "Phần này chứa các câu hỏi phổ biến liên quan đến độ an toàn và độ tin cậy của công nghệ trong ứng dụng.",
+    "troubleshooting": "Xử lý sự cố",
+    "general": "Tổng quan",
+    "committed": "Signal cam kết với sự riêng tư của bạn. Là một tổ chức phi lợi nhuận, Signal hoạt động dựa trên đóng góp. Không quảng cáo, không theo dõi.",
+    "donate_here": "Đóng góp ở đây!"
+  }
+}
