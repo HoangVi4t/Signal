@@ -11,8 +11,8 @@
                 justify-between
                 items-start
                 text-sm
-                sm:max-md:flex-col-reverse
-                sm:max-md:gap-4
+                max-md:flex-col-reverse
+                max-md:gap-4
    "
     >
       <div class="w-2/5 ">

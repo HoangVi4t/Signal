@@ -1,11 +1,11 @@
 <template>
   <HelpHeader/>
   <div class="border-t pt-[21px] min-h-[65vh]">
-    <div class="container mx-auto max-w-[1160px] sm:max-md:px-[5%]">
+    <div class="container mx-auto max-w-[1160px] max-md:px-[5%]">
 
       <!-- Nav -->
-      <nav class="flex items-center justify-between mb-[30px]">
-        <ol class="flex items-center">
+      <nav class="flex flex-wrap items-center justify-between mb-[30px]">
+        <ol class="flex items-center mb-[15px]">
           <router-link to="/help"
                        class="font-inter text-[13px] text-[rgb(0,114,239)] hover:text-[rgb(24,81,180)] hover:underline">
             Signal Support
@@ -23,8 +23,8 @@
       </nav>
 
       <!-- content  -->
-      <div class="flex justify-end sm:max-md:justify-start">
-        <div class="flex-[0_0_80%]">
+      <div class="flex flex-wrap justify-end sm:max-md:justify-start">
+        <div class="flex-[0_0_80%]  max-md:flex-1">
 
           <!-- Header-->
           <header class="flex flex-wrap">
@@ -34,7 +34,7 @@
 
           <!-- body -->
           <div class="flex flex-row flex-wrap">
-            <div class="flex-[0_0_45%]">
+            <div class="flex-[0_0_45%]  max-md:flex-1">
               <h3 class="text-xl font-extrabold mb-[15px]">Signal Messenger Features</h3>
               <ul>
                 <li class="text-base py-[15px]">

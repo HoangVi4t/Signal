@@ -48,7 +48,7 @@
               Developers
             </li>
           </router-link>
-          <router-link to="/carrers">
+          <router-link to="/careers">
             <li class="font-inter text-base py-2 px-3 cursor-pointer hover:text-[#2C6BED]">
               Careers
             </li>

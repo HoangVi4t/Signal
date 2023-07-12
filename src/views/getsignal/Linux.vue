@@ -1,9 +1,9 @@
 <template>
-  <div class="py-12 px-6 mt-[84px] sm:max-md:mt-[52px]">
+  <div class="py-12 px-6 mt-[84px] max-md:mt-[52px]">
     <div class="container mx-auto max-w-[1344px]">
       <div class="flex justify-center">
-        <div class="w-6/12 sm:max-md:w-full p-3">
-          <h2 class="font-inter text-[40px] sm:max-md:text-[28px] leading-[44px] sm:max-md:leading-8 font-extrabold text-center mb-8">
+        <div class="w-6/12 max-md:w-full p-3">
+          <h2 class="font-inter text-[40px] max-md:text-[28px] leading-[44px] max-md:leading-8 font-extrabold text-center mb-8">
             Signal for Debian-based Distros</h2>
           <div class="">
             <pre class="text-left bg-[#f5f5f5] text-[#4a4a4a] text-sm overflow-x-auto py-5 px-6">

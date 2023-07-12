@@ -1,18 +1,18 @@
 <template>
   <HelpHeader/>
   <div class="border-t pt-[21px] min-h-[65vh]">
-    <div class="container mx-auto max-w-[1160px] sm:max-md:px-[5%]">
+    <div class="container mx-auto max-w-[1160px] max-md:px-[5%]">
 
       <!-- Nav -->
-      <nav class="flex items-center justify-between mb-[30px]">
-        <ol class="flex items-center">
+      <nav class="flex flex-wrap items-center justify-between mb-[30px]">
+        <ol class="flex items-center mb-[15px]">
           <router-link to="/help"
                        class="font-inter text-[13px] text-[rgb(0,114,239)] hover:text-[rgb(24,81,180)] hover:underline">
             Signal Support
           </router-link>
           <li class="font-inter text-[#4e4e4e] text-[13px] font-light ml-1"> > Security</li>
         </ol>
-        <div class="flex items-center">
+        <div class="flex flex-wrap items-center">
           <input
               class="block w-full min-w-[300px] h-10 border-[#ddd] focus:ring-0 rounded-[30px] pl-10 pr-5 focus:ring-blue-400"
               type="text" :placeholder="$t('help.search')">
@@ -23,7 +23,7 @@
       </nav>
 
       <!-- content  -->
-      <div class="flex justify-end sm:max-md:justify-start">
+      <div class="flex justify-end max-md:justify-start">
         <div class="flex-[0_0_80%]">
 
           <!-- Header-->

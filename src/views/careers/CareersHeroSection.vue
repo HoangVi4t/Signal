@@ -1,17 +1,17 @@
 <template>
   <div>
     <!-- Section 1-->
-    <div class="bg-[#e7dfe0] mt-3 lg:mt-[5.15rem] md:max-lg:mt-[3.25rem] sm:max-md:mt-[3.25rem]">
-      <div class="container mx-auto 2xl:max-w-[1344px] sm:max-md:max-w-[730px]">
+    <div class="bg-[#e7dfe0] mt-3 lg:mt-[5.15rem] max-lg:mt-[3.25rem]">
+      <div class="container mx-auto 2xl:max-w-[1344px] max-md:max-w-[730px]">
         <div class="flex flex-wrap items-center">
-          <div class="w-6/12 sm:max-md:w-full p-3">
-            <h1 class="font-inter text-[60px] sm:max-md:text-[40px] leading-[64px] sm:max-md:leading-[44px] font-extrabold mb-6">Work that sends a message</h1>
-            <p class="font-inter text-xl sm:max-md:text-base leading-7"> Millions of people use Signal every day to share the moments that
+          <div class="w-6/12 max-md:w-full p-3">
+            <h1 class="font-inter text-[60px] max-md:text-[40px] leading-[64px] max-md:leading-[44px] font-extrabold mb-6">Work that sends a message</h1>
+            <p class="font-inter text-xl max-md:text-base leading-7"> Millions of people use Signal every day to share the moments that
               matter in their lives. Join an
               organization that empowers users by making private communication simple.
             </p>
           </div>
-          <div class="w-6/12 sm:max-md:w-full p-3">
+          <div class="w-6/12 max-md:w-full p-3">
             <img src="/images/header-careers.png" alt="">
           </div>
         </div>
@@ -19,10 +19,10 @@
     </div>
 
     <!-- Section 2-->
-    <div class="mt-10 py-12 px-6">
-      <div class="container mx-auto 2xl:max-w-[1344px] sm:max-md:max-w-[730px]">
-        <div class="flex flex-wrap items-center gap-y-10">
-          <div class="w-1/3 sm:max-md:w-full p-3">
+    <div class="py-12 px-6 max-md:px-2">
+      <div class="container mx-auto 2xl:max-w-[1344px] max-md:max-w-[730px]">
+        <div class="flex flex-wrap items-center ">
+          <div class="w-1/3 max-md:w-full p-3">
             <img class="w-10" src="/icons/eye-slash.png" alt="">
             <h3 class="font-inter text-[28px] leading-8 font-extrabold my-4">Privacy First</h3>
             <p class="font-inter text-base"> We solve problems that matter and develop technology that respects our
@@ -31,7 +31,7 @@
             </p>
           </div>
 
-          <div class="w-1/3 sm:max-md:w-full p-3">
+          <div class="w-1/3 max-md:w-full p-3">
             <img class="w-10" src="/icons/users.png" alt="">
             <h3 class="font-inter text-[28px] leading-8 font-extrabold my-4">Small Team</h3>
             <p class="font-inter text-base"> Have an immediate impact. Signal is an opportunity to do original work and
@@ -39,7 +39,7 @@
             </p>
           </div>
 
-          <div class="w-1/3 sm:max-md:w-full p-3">
+          <div class="w-1/3 max-md:w-full p-3">
             <img class="w-10" src="/icons/dollar.png" alt="">
             <h3 class="font-inter text-[28px] leading-8 font-extrabold my-4">Competitive Compensation</h3>
             <p class="font-inter text-base"> Healthcare premiums are fully covered for you and your family. Our 401(k)
@@ -47,7 +47,7 @@
             </p>
           </div>
 
-          <div class="w-1/3 sm:max-md:w-full p-3">
+          <div class="w-1/3 max-md:w-full p-3">
             <img class="w-10" src="/icons/globe-americas.png" alt="">
             <h3 class="font-inter text-[28px] leading-8 font-extrabold my-4">Work Remotely</h3>
             <p class="font-inter text-base"> Skip the commute. Work from home or take advantage of our co-working space
@@ -55,7 +55,7 @@
             </p>
           </div>
 
-          <div class="w-1/3 sm:max-md:w-full p-3">
+          <div class="w-1/3 max-md:w-full p-3">
             <img class="w-10" src="/icons/code.png" alt="">
             <h3 class="font-inter text-[28px] leading-8 font-extrabold my-4">Open Source</h3>
             <p class="font-inter text-base"> Everything we produce is open source. Every time we write code, we get to
@@ -63,7 +63,7 @@
             </p>
           </div>
 
-          <div class="w-1/3 sm:max-md:w-full p-3">
+          <div class="w-1/3 max-md:w-full p-3">
             <img class="w-10" src="/icons/solid_certificate.png" alt="">
             <h3 class="font-inter text-[28px] leading-8 font-extrabold my-4">Nonprofit</h3>
             <p class="font-inter text-base"> Our goal is to protect free expression and enable secure global
@@ -75,8 +75,8 @@
     </div>
 
     <!-- Section 3-->
-    <div class="py-12 px-6">
-      <div class="container mx-auto 2xl:max-w-[1344px] sm:max-md:max-w-[730px] mt-10">
+    <div class="py-12 px-6 max-md:px-2">
+      <div class="container mx-auto 2xl:max-w-[1344px] max-md:max-w-[730px]">
         <h2 class="font-inter text-[40px] leading-[44px] font-extrabold mb-6 text-center">Open Roles</h2>
         <div>
           <table class="w-full bg-white">

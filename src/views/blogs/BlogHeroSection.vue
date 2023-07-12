@@ -1,17 +1,17 @@
 <template>
   <div>
-    <div class="bg-[#f7f7f7] py-12 px-6">
+    <div class="bg-[#f7f7f7] py-12 px-6 max-sm:px-2">
       <div class="container mx-auto 2xl:max-w-[1344px] sm:max-md:max-w-[680px] md:max-lg:max-w-[953px]">
         <!-- Blog 1-->
         <div class="flex flex-wrap justify-center items-center">
-          <div class="w-4/6 sm:max-md:w-full md:max-lg:w-full p-3">
+          <div class="w-4/6 max-md:w-full md:max-lg:w-full p-3">
             <div class="bg-white border-1 border-[#ddd] shadow-[0_1px_2px_rgba(0,0,0,0.05)] mt-32 pb-20 mv-5 px-[15px]">
               <div class="flex justify-center">
                 <img class="rounded-[50%] block h-20 -mt-10 w-20" src="/images/meredith-signal.png" alt="">
               </div>
               <div class="flex justify-center">
-                <div class="w-4/6 p-3">
-                  <h3 class="font-inter text-[30px] sm:max-md:text-2xl text-center font-extrabold leading-10 mb-4 mt-10">
+                <div class="w-4/6 max-md:w-full p-3">
+                  <h3 class="font-inter text-[30px] max-md:text-2xl text-center font-extrabold leading-10 mb-4 mt-10">
                     <a class="cursor-pointer">Standing firm against threats to private and safe communication</a>
                   </h3>
                   <p class="font-inter text-center text-base mb-5 text-[#7a7a7a]">
@@ -21,7 +21,7 @@
                 </div>
               </div>
               <div class="flex justify-center">
-                <div class="w-4/6 sm:max-md:w-full md:max-lg:w-full p-3">
+                <div class="w-4/6 max-lg:w-full p-3">
                   <img class="mb-5" src="/images/uk-online-safety-bill.png" alt="">
                   <p class="font-inter text-base mb-5">Signal exists to provide people everywhere with a tool for real
                     private communication. That’s our
@@ -48,14 +48,14 @@
 
         <!-- Blog 2-->
         <div class="flex flex-wrap justify-center items-center">
-          <div class="w-4/6 sm:max-md:w-full md:max-lg:w-full p-3">
+          <div class="w-4/6 max-md:w-full md:max-lg:w-full p-3">
             <div class="bg-white border-1 border-[#ddd] shadow-[0_1px_2px_rgba(0,0,0,0.05)] mt-32 pb-20 mv-5 px-[15px]">
               <div class="flex justify-center">
                 <img class="rounded-[50%] block h-20 -mt-10 w-20" src="/images/nina-signal.jpg" alt="">
               </div>
               <div class="flex justify-center">
-                <div class="w-4/6 sm:max-md:w-full md:max-lg:w-full p-3">
-                  <h3 class="font-inter text-[30px] sm:max-md:text-2xl text-center font-extrabold leading-10 mb-4 mt-10">
+                <div class="w-4/6 max-lg:w-full p-3">
+                  <h3 class="font-inter text-[30px] max-md:text-2xl text-center font-extrabold leading-10 mb-4 mt-10">
                     <a class="cursor-pointer">Signal is for everyone, and everyone is different</a>
                   </h3>
                   <p class="font-inter text-center text-base mb-5 text-[#7a7a7a]">
@@ -65,7 +65,7 @@
                 </div>
               </div>
               <div class="flex justify-center">
-                <div class="w-4/6 sm:max-md:w-full md:max-lg:w-full p-3">
+                <div class="w-4/6 max-lg:w-full p-3">
                   <img class="mb-5" src="/images/global-header.png" alt="">
                   <p class="font-inter text-base mb-5">The tech industry–its products, conceptual frameworks, linguistic
                     conventions, and cultural norms–is largely centered in the US (and, increasingly, China. But we’re
