@@ -15,6 +15,7 @@ export default {
     // rotate:{
     //   '22.5':'22.5'
     // }
+
   },
   plugins: [
       require('@tailwindcss/forms'),

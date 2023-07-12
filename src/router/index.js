@@ -25,12 +25,12 @@ const router = createRouter({
     routes: [
         {
             path: '/',
-            redirect: '/:locale?',
+            // redirect: '/:locale?',
             name: 'home',
             component: HomeView,
             children: [
                 {
-                    path: '/:locale?',
+                    path: '/',
                     alias: '/main',
                     name: 'HeroSection',
                     component: HeroSection,

@@ -7,7 +7,7 @@
         <span class="font-inter text-[#1b1b1b] text-[28px] font-bold ml-[10px]">Signal Support</span>
       </router-link>
 
-      <div class="flex items-center sm:max-md:hidden md:max-lg:hidden">
+      <div class="flex items-center sm:max-md:hidden ">
         <ul class="flex items-center">
           <router-link to="/main" class="font-inter text-base hover:text-[#188DF3] cursor-pointer py-2 pr-5">Signal.org</router-link>
           <router-link to="/donate" class="font-inter text-base hover:text-[#188DF3] cursor-pointer py-2 pr-5">{{ $t('help.donate') }}</router-link>
