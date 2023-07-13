@@ -4,8 +4,8 @@
     <div class="container mx-auto max-w-[1160px] px-[5%]">
 
       <!-- Nav -->
-      <nav class="flex items-center justify-between mb-[30px]">
-        <ol class="flex items-center">
+      <nav class="flex flex-wrap items-center justify-between mb-[30px]">
+        <ol class="flex items-center mb-[15px]">
           <router-link to="/help"
                        class="font-inter text-[13px] text-[rgb(0,114,239)] hover:text-[rgb(24,81,180)] hover:underline">
             Signal Support
